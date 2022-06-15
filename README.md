@@ -1,1 +1,1 @@
-My C Programing repository
+My Pointers, Arrays and Strings Project
