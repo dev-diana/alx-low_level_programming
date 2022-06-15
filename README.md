@@ -1,1 +1,1 @@
-My Pointers, Arrays and Strings Project
+A C Programming Project
