@@ -1,6 +1,8 @@
 #include "main.h"
 #include <stddef.h>
 
+int in_accept(char c, char *accept);
+
 /**
  * _strpbrk - searches a string for any of a set of bytes
  * @s: string to be checked
