@@ -8,6 +8,7 @@
  * @str: An input pointer of the string to copy.
  * Return: Apointer to new string or NULL if it str is NULL
  */
+
 char *_strdup(char *str)
 {
 	char *new_str, *start;
