@@ -1,1 +1,2 @@
-A C Programming Project for the ALX Software Engineering program 
+A Comprehensive project on C Programming from ALX Software Engineering
+Doubly linked lists
